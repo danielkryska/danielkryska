@@ -12,6 +12,8 @@ I once built an app just to automate making other apps.
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-kryska) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@daniel.kryska) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Daniel-Kryska) 
 
+[Portfolio](danielkryska.dev)
+
 # 💻Tech Stack
 
 ## Technologies
